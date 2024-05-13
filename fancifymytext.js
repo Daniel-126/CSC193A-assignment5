@@ -1,7 +1,7 @@
 // Function to show alert and change font size
 function makeTextBigger() {
     alert("Hello, world!");
-    document.getElementById("textArea").style.fontSize = "36pt";
+    document.getElementById("textArea").style.fontSize = "24pt";
 }
 
 // Function to apply or remove styles based on the radio button selection
